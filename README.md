@@ -1,4 +1,4 @@
-# MERN Social 2.0
+# MERN Social 2026
 > A modern social media app with **users, posts, likes, and comments**, built with **React, Node.js, Express, and MongoDB**.
 
 ![MERN Social](https://s3.amazonaws.com/mernbook/git+/social.png)
