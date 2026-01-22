@@ -1,23 +1,63 @@
-# MERN Social 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)*
+<p align="center">
+  <a name="readme-top"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+MERN+Social+2.0&height=100&section=header"/>
+</p>
 
-A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
+<div align="center">
 
-![MERN Social](https://s3.amazonaws.com/mernbook/git+/social.png "MERN Social")
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=Social+Media+Platform;React+Node+Express+MongoDB;Open+Source;Community+Driven)](https://git.io/typing-svg)<br><br>
 
-### [Live Demo](http://social2.mernbook.com/ "MERN Social")
+![Starline](https://starlines.qoo.monster/assets/mwakidenis)
 
-#### What you need to run this code
-1. Node (13.12.0)
-2. NPM (6.14.4) or Yarn (1.22.4)
-3. MongoDB (4.2.0)
+</div>
 
-####  How to run this code
-1. Make sure MongoDB is running on your system 
-2. Clone this repository
-3. Open command line in the cloned folder,
-   - To install dependencies, run ```  npm install  ``` or ``` yarn ```
-   - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
-4. Open [localhost:3000](http://localhost:3000/) in the browser
----- 
+<p align="center">
+<img src="https://s3.amazonaws.com/mernbook/git+/social.png" width="400" alt="MERN Social" />
+</p>
+
+# MERN Social 2.0  
+> A modern social media application with **users, posts, likes, comments**, built with **React, Node, Express, and MongoDB**.  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://social2.mernbook.com)  
+[![GitHub Stars](https://img.shields.io/github/stars/shamahoque/mern-social?style=social)](https://github.com/shamahoque/mern-social)
+
 ---
+
+## ⚡ Features
+
+- 👤 **User Authentication** (JWT & Secure Passwords)  
+- 📝 **Posts & Comments** with likes and interactions  
+- 🌐 **Responsive UI** (React & Material UI)  
+- 🚀 **Fast Backend** (Node.js & Express)  
+- 🗄 **MongoDB Database**  
+- 🔄 **Real-time updates** with WebSockets (optional)  
+- 🔗 **Open Source** and easy to deploy  
+
+---
+
+## 🛠 Prerequisites
+
+Before running this project locally:
+
+- **Node.js** >= 13.12.0  
+- **NPM** >= 6.14.4 or **Yarn** >= 1.22.4  
+- **MongoDB** >= 4.2.0  
+
+---
+
+## 💻 Installation & Running
+
+```bash
+# Clone repository
+git clone https://github.com/shamahoque/mern-social.git
+cd mern-social
+
+# Install dependencies
+npm install
+# or
+yarn
+
+# Start the backend server
+npm run development
+# or
+yarn development
