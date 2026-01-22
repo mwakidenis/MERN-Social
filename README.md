@@ -4,7 +4,6 @@
 ![MERN Social](https://s3.amazonaws.com/mernbook/git+/social.png)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://social2.mernbook.com)
-[![GitHub Stars](https://img.shields.io/github/stars/shamahoque/mern-social?style=social)](https://github.com/shamahoque/mern-social)
 
 ---
 
